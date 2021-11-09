@@ -6,5 +6,6 @@ Steps to reproduce
 
 ```sh
 npm i
+prisma generate
 npm run repro
 ```
